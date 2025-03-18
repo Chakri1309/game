@@ -1,0 +1,24 @@
+body{
+    font-weight: bold;
+    font-size: 3rem;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(209, 209, 209);
+}
+.buttons button{
+    font-size: 5rem;
+    border-radius: 250px;
+    background-color: aqua;
+    color: azure;
+}
+.buttons :hover{
+    background-color: rgb(142, 202, 202);
+}
+.green{
+    color: green;
+}
+.red{
+    color: rgb(255, 0, 0);
+}
